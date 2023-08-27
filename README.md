@@ -8,7 +8,8 @@ Welcome to an innovative project that leverages the capabilities of `Circom` to 
 
 This project is a submission for the `Polygon [Advanced]` course offered by `Metacrafters`. The main objective was to develop a custom circuit (illustrated below) using the `circom` programming language, validate it with custom inputs, and finally deploy the verifier onto the `Mumbai Testnet`.
 
-![Assessment_b05f6ed658 (1)](https://github.com/subhamrexpaul/Meta_PolyMod_3/tree/main)
+![Assessment_b05f6ed658 (1)](https://github.com/subhamrexpaul/Meta_PolyMod_3/assets/96594935/5b1d7c3b-c06b-48e7-9e2a-5b0409b677d5)
+)
 
 ## Getting Started
 
