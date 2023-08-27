@@ -17,7 +17,7 @@ This project is a submission for the `Polygon [Advanced]` course offered by `Met
 
 To get started, follow these steps:
 
-1. Clone this repository using the command: `git clone https://github.com/subhamrexpaul/Poly-Mod3.git`.
+1. Clone this repository using the command: `git clone https://github.com/subhamrexpaul/Meta_PolyMod_3.git`.
 2. Install required npm packages using: `npm i`.
 3. Create a `.env` file to store sensitive information like `PRIVATE_KEY` and `API_KEY`.
 
